@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 mzz2017/v2raya
+ubuntu:focal
